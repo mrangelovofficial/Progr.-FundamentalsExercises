@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\bin\Debug\3.Employee Data.exe.config
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\bin\Debug\3.Employee Data.exe
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\bin\Debug\3.Employee Data.pdb
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\obj\Debug\3.Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\obj\Debug\3.Employee Data.exe
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\3.Employee Data\obj\Debug\3.Employee Data.pdb

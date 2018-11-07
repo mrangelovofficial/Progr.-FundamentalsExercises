@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\bin\Debug\01.Debit Card Number.exe.config
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\bin\Debug\01.Debit Card Number.exe
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\bin\Debug\01.Debit Card Number.pdb
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\obj\Debug\01.Debit Card Number.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\obj\Debug\01.Debit Card Number.exe
+C:\Users\georg\source\repos\Intro and Basic Syntax - Lab\01.Debit Card Number\obj\Debug\01.Debit Card Number.pdb
